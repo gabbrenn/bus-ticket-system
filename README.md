@@ -92,4 +92,9 @@ Contributions are welcome! If you would like to contribute to this project, plea
 - Push to the branch:
   ```bash
   git push origin feature/YourFeature
-Open a pull request.
+- Open a pull request.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+```sql
+Feel free to modify the sections, add screenshots, or any other details that showcase your project!
